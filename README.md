@@ -57,7 +57,7 @@
 ## 🔧 Stack
 - **Language**: Java, XML  
 - **Tools**: Android Studio(Chipmunk | 2021.2.1)
-- 
+
 <br/>
 
 ## 🙋‍♂️ Developer
